@@ -6,3 +6,8 @@ Morse Code via Push Button. Meant to teach us:
 - IDE Setup 
 - IDE GUI
 - Simple clock and push button operations
+
+## Lab 1:
+Controlling LED Brightness Via Button-Controlled-PWM Signal. Meant to teach us:
+- PWM control & Parameters
+- Pull up/down resistors
